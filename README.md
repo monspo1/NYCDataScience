@@ -13,20 +13,20 @@ As the first project, I did exploratory data analysis and visualization of the Y
 ## Project 2a: Shiny Dashboard app - Interactive Data Scientist Salary Comparator 
 The Shiny Dashboard application is an interactive data scientist salary comparator against other eight professions in the US, including software engineer, business analyst, and assistant professors. 
 * [Link to blog](http://blog.nycdatascience.com/students-work/project-2-shiny-dashboard-app-data-scientist-salary-comparator/ )
-* [Link to interactive app](http://bit.ly/dssalarycomparator )
+* [Link to the interactive app](http://bit.ly/dssalarycomparator )
 
 <br>
 
 ## Project 2b: Shiny Dashboard app - Interactive Yelp data explorer 
 This application is based on the Yelp academic data set and provides restaurants information in users' areas of interests. Through multifaceted interactive components such as data explorers, scatter plots, and comparison maps, users of applications can get broad and deeper understanding of various aspects of the data sets.         
-* [Link to interactive app](http://bit.ly/yelpspoon)
+* [Link to the interactive app](http://bit.ly/yelpspoon)
 
 <br>
 
 ## Project 3: Indeed Data Scraping and Cluster Analysis 
 implemented an interactive application which embeds K-means clustering and sentiment analysis based on web-scrapped data about jobs and companies from indeed.com and dice.com. The contents were extracted and processed with a variety of Python packages and natural language processing libraries including NLTK.  
 * [Link to blog](http://blog.nycdatascience.com/students-work/project-3-indeed-data-scraping-and-cluster-analysis/)
-* [Link to interactive app](http://bit.ly/indeedicedsapp)
+* [Link to the interactive app](http://bit.ly/indeedicedsapp)
 
 <br>
 
