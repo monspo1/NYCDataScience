@@ -1,12 +1,12 @@
 # NYCDataScience
 This 'NYCDataScience' folder contains projects source codes that I have implemented during NYC DataScience academy.
 Please [email me](mailto:monspo1@gmail.com) if you have any questions or comments. 
-<br>
+<br><br>
 
 
 ## Project 1: Exploratory visualizations of Yelp academic dataset 
-#### As the first project, I did exploratory data analysis and visualization of the Yelp academic dataset using R, R Markdown, Knitr, googleVis and Shiny. I identified the hidden and interesting relationships between the number of followers at Yelp and average rating frequency as well as average rating scores. Namely, as the number of followers at Yelp increase, users tend to rate more frequently until some point and show tendencies to rate higher
-http://blog.nycdatascience.com/students-work/project-1-exploratory-visualizations-of-yelp-academic-dataset-draft/ 
+⋅⋅⋅ As the first project, I did exploratory data analysis and visualization of the Yelp academic dataset using R, R Markdown, Knitr, googleVis and Shiny. I identified the hidden and interesting relationships between the number of followers at Yelp and average rating frequency as well as average rating scores. Namely, as the number of followers at Yelp increase, users tend to rate more frequently until some point and show tendencies to rate higher
+⋅⋅⋅ http://blog.nycdatascience.com/students-work/project-1-exploratory-visualizations-of-yelp-academic-dataset-draft/ 
 
 
 ## Project 2a: Shiny Dashboard app - Interactive Data Scientist Salary Comparator 
