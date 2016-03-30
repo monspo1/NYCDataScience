@@ -1,4 +1,4 @@
-# NYCDataScience
+# About this NYCDataScience fodler
 This 'NYCDataScience' folder contains projects source codes that I have implemented during NYC DataScience academy.
 Please [email me](mailto:monspo1@gmail.com) if you have any questions or comments. 
 
@@ -19,6 +19,7 @@ The Shiny Dashboard application is an interactive data scientist salary comparat
 
 ## Project 2b: Shiny Dashboard app - Interactive Yelp data explorer 
 This application is based on the Yelp academic data set and provides restaurants information in users' areas of interests. Through multifaceted interactive components such as data explorers, scatter plots, and comparison maps, users of applications can get broad and deeper understanding of various aspects of the data sets.         
+* [Link to interactive app](http://bit.ly/yelpspoon)
 
 <br>
 
